@@ -373,7 +373,8 @@ class Continued_story(Story):
             pathImage = None
             if i==0:
                 #pathImage = f"{title}_page{i}_pic"
-                pathImage = ai_utils.imageAIMaker.makeImageAI(inputText,resolution=resolution)
+                url_image_previous_book = previous_book_pages[0]["img_url"]
+                pathImage = ai_utils.imageAIMaker.makeImageFromImage(inputText,url_image_previous_book,resolution=resolution)
                 url_first_image = str(pathImage)
             else:
                 
