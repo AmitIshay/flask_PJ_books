@@ -1,0 +1,1240 @@
+[{
+  "_id": {
+    "$oid": "683edd26af9211e079771feb"
+  },
+  "title": "cats and dogs",
+  "author": "Yam Horin",
+  "user_id": {
+    "$oid": "683ecd2f4ed1960c607e60e5"
+  },
+  "created_at": {
+    "$date": "2025-06-03T11:31:50.480Z"
+  },
+  "num_pages": 3,
+  "pages": [
+    {
+      "text_page": "Once upon a time, in a quiet forest, there lived a curious cat named Felix.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%203e963.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page0_voice.mp3"
+    },
+    {
+      "text_page": "Felix loved to explore the woods and discover new things every day.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2049a1e.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page1_voice.mp3"
+    },
+    {
+      "text_page": "One morning, he stumbled upon a shiny key hidden beneath a pile of leaves.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20a578e.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page2_voice.mp3"
+    }
+  ],
+  "genre": "Adventure",
+  "counter_rating": 4,
+  "rating": 3,
+  "sum_rating": 15.5,
+  "comments": [
+    {
+      "user": "yam@smail.com",
+      "comment": "test"
+    },
+    {
+      "user": "yam@smail.com",
+      "comment": "test"
+    },
+    {
+      "user": "yam@smail.com",
+      "comment": "test"
+    },
+    {
+      "user": "Yam Horin",
+      "comment": "test"
+    },
+    {
+      "user": "Yam Horin",
+      "comment": "test"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68402a4454e8bf519db92b64"
+  },
+  "title": "cats and dogs",
+  "author": "Yam Horin",
+  "description": "a cute story about how dogs and cats can become friends",
+  "user_id": {
+    "$oid": "683ecd2f4ed1960c607e60e5"
+  },
+  "created_at": {
+    "$date": "2025-06-04T11:13:08.457Z"
+  },
+  "num_pages": 6,
+  "pages": [
+    {
+      "text_page": "Once upon a time, in a quiet forest, there lived a curious cat named Felix.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20511ce.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page0_voice.mp3"
+    },
+    {
+      "text_page": "Felix loved to explore the woods and discover new things every day.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%208952c.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page1_voice.mp3"
+    },
+    {
+      "text_page": "One morning, he stumbled upon a shiny key hidden beneath a pile of leaves.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20647b5.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page2_voice.mp3"
+    },
+    {
+      "text_page": "Excited, Felix wondered what the key could unlock, and he set off on a quest to find out.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20e698d.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page3_voice.mp3"
+    },
+    {
+      "text_page": "He asked the wise old owl, who told him of a hidden treasure deep in the forest.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%200f368.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page4_voice.mp3"
+    },
+    {
+      "text_page": "Felix followed clues carved into trees and hidden under rocks.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%202f8ff.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page5_voice.mp3"
+    }
+  ],
+  "genre": "Adventure"
+},
+{
+  "_id": {
+    "$oid": "68402c7412538f947410eb6d"
+  },
+  "title": "cats and dogs2",
+  "author": "Yam Horin",
+  "description": "a cute story about how dogs and cats can become friends part 2",
+  "user_id": {
+    "$oid": "683ecd2f4ed1960c607e60e5"
+  },
+  "created_at": {
+    "$date": "2025-06-04T11:22:28.212Z"
+  },
+  "num_pages": 3,
+  "pages": [
+    {
+      "text_page": "Once upon a time, in a cozy little town, lived a fluffy white cat named Snowball. Snowball loved napping in sunbeams and chasing butterflies. She thought she was the queen of the house! But one day, a wiggly-tailed puppy arrived. He was a golden retriever named Gus, and he was full of bouncy energy! Gus loved to lick faces, chew on toys, and bark at… well, pretty much everything! Snowball wasn't sure what to think of this new, loud creature. He seemed to think playing was way more important than napping. Could a cat and a dog ever be friends?",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%205008a.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs2_page0_voice.mp3"
+    },
+    {
+      "text_page": "Gus tried to befriend Snowball right away. He'd wag his tail so hard his whole body wiggled! He’d drop his favorite squeaky toy at her paws. But Snowball would just arch her back, hiss softly, and hop away to her favorite windowsill. Gus would whine a little, his big brown eyes looking sad. Mrs. Gable, their owner, would gently say, \"Give her time, Gus. Cats and dogs sometimes need time to understand each other.\" So Gus tried to be patient, watching Snowball from a distance, wondering what it would take to be friends.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%207eac7.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs2_page1_voice.mp3"
+    },
+    {
+      "text_page": "One rainy afternoon, a loud thunderstorm boomed! Snowball, usually so confident, was scared. She trembled under the sofa, her fur standing on end. Gus, despite being a brave puppy, was a little nervous too. He crept under the sofa beside Snowball, whimpering softly. Unexpectedly, Snowball nudged Gus with her head. Gus licked Snowball's ear gently. They stayed there, close together, listening to the storm rumble outside. The next morning, Snowball was even seen letting Gus lick her nose! Maybe, just maybe, these two were finally starting to understand each other.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2072a88.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs2_page2_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6844049064be92dc717aab8a"
+  },
+  "title": "cats and dogs",
+  "author": "yam horin",
+  "description": "a cute story about how dogs and cats can become friends",
+  "user_id": {
+    "$oid": "68432d8b578d818dc108fff3"
+  },
+  "created_at": {
+    "$date": "2025-06-07T09:21:20.039Z"
+  },
+  "num_pages": 6,
+  "pages": [
+    {
+      "text_page": "Once upon a time, in a quiet forest, there lived a curious cat named Felix.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2014087.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page0_voice.mp3"
+    },
+    {
+      "text_page": "Felix loved to explore the woods and discover new things every day.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20e12b5.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page1_voice.mp3"
+    },
+    {
+      "text_page": "One morning, he stumbled upon a shiny key hidden beneath a pile of leaves.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20ea4a7.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page2_voice.mp3"
+    },
+    {
+      "text_page": "Excited, Felix wondered what the key could unlock, and he set off on a quest to find out.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%201ac51.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page3_voice.mp3"
+    },
+    {
+      "text_page": "He asked the wise old owl, who told him of a hidden treasure deep in the forest.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2095230.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page4_voice.mp3"
+    },
+    {
+      "text_page": "Felix followed clues carved into trees and hidden under rocks.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%200a186.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page5_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6845c030c378117919b96046"
+  },
+  "title": "cats and dogs",
+  "author": "yam horin",
+  "description": "a cute story about how dogs and cats can become friends",
+  "user_id": {
+    "$oid": "68432d8b578d818dc108fff3"
+  },
+  "created_at": {
+    "$date": "2025-06-08T16:54:08.735Z"
+  },
+  "num_pages": 4,
+  "pages": [
+    {
+      "text_page": "In a quiet town, cats and dogs lived on opposite sides of the park. They rarely spoke, but they watched each other with curiosity.One day, a mischievous puppy named Max saw a cat named Luna chasing butterflies. He barked playfully and joined in, startling her!",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20e8b65.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page0_voice.mp3"
+    },
+    {
+      "text_page": "Instead of getting angry, Luna laughed. 'You're fast for a dog,' she said. Max wagged his tail. From that day, they met every morning.",
+      "img_url": null,
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page1_voice.mp3"
+    },
+    {
+      "text_page": "When rain kept them inside, Luna came up with an idea. 'Let’s build a shelter for all animals!' Max barked in agreement.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20c6896.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page2_voice.mp3"
+    },
+    {
+      "text_page": "Cats and dogs worked together, bringing sticks, blankets, and treats. Soon, they had a cozy spot where everyone played, no matter the weather.From then on, the park was full of wagging tails and happy purrs. Max and Luna showed everyone that even the oldest rivalries can become the best friendships.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2035360.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page3_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6845c06fc378117919b96047"
+  },
+  "title": "cats and dogs",
+  "author": "yam horin",
+  "description": "a cute story about how dogs and cats can become friends",
+  "user_id": {
+    "$oid": "68432d8b578d818dc108fff3"
+  },
+  "created_at": {
+    "$date": "2025-06-08T16:55:11.206Z"
+  },
+  "num_pages": 4,
+  "pages": [
+    {
+      "text_page": "In a quiet town, cats and dogs lived on opposite sides of the park. They rarely spoke, but they watched each other with curiosity.One day, a mischievous puppy named Max saw a cat named Luna chasing butterflies. He barked playfully and joined in, startling her!",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2089f16.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page0_voice.mp3"
+    },
+    {
+      "text_page": "Instead of getting angry, Luna laughed. 'You're fast for a dog,' she said. Max wagged his tail. From that day, they met every morning.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20ec524.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page1_voice.mp3"
+    },
+    {
+      "text_page": "When rain kept them inside, Luna came up with an idea. 'Let’s build a shelter for all animals!' Max barked in agreement.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2039d2e.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page2_voice.mp3"
+    },
+    {
+      "text_page": "Cats and dogs worked together, bringing sticks, blankets, and treats. Soon, they had a cozy spot where everyone played, no matter the weather.From then on, the park was full of wagging tails and happy purrs. Max and Luna showed everyone that even the oldest rivalries can become the best friendships.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%206540b.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page3_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6845c0c7c378117919b96048"
+  },
+  "title": "cats and dogs",
+  "author": "yam horin",
+  "description": "a cute story about how dogs and cats can become friends",
+  "user_id": {
+    "$oid": "68432d8b578d818dc108fff3"
+  },
+  "created_at": {
+    "$date": "2025-06-08T16:56:39.175Z"
+  },
+  "num_pages": 3,
+  "pages": [
+    {
+      "text_page": "Once upon a time, in a cozy little town nestled beside a sparkling blue river, lived a fluffy white cat named Snowball. Snowball loved to nap in sunbeams and chase butterflies in the garden. But Snowball also had a secret: he wished he had a friend! He watched the children playing in the park, always surrounded by laughter and games. \"If only I had someone to play with,\" he sighed, twitching his whiskers. One sunny afternoon, Snowball saw a big, wagging tail appear at the edge of his garden.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2078414.png",
+      "voice_file_url": null
+    },
+    {
+      "text_page": "The tail belonged to a golden retriever puppy named Gus! Gus was new to the neighborhood and a bit shy. He peeked through the fence, his big brown eyes meeting Snowball’s bright blue ones. \"Hello!\" barked Gus, his voice a little wobbly. Snowball, surprised, puffed up his fur slightly. Cats and dogs weren't supposed to be friends, were they? He'd always heard stories about them chasing each other. \"Meow?\" he replied cautiously, tilting his head. Gus's tail wagged even faster. \"Can I... can I come in?\" he asked.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%201fd06.png",
+      "voice_file_url": null
+    },
+    {
+      "text_page": "Snowball thought for a moment. Maybe, just maybe, a dog wouldn't be so bad. He'd been lonely for so long. He nodded slowly. Gus, thrilled, squeezed under the fence, wriggling with excitement. Instead of chasing, Gus started to sniff Snowball gently. Snowball, instead of hissing, started to purr. Soon, they were tumbling and playing in the garden, a fluffy white cat and a golden retriever puppy, proving that even cats and dogs can become the best of friends. The end!",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20809b6.png",
+      "voice_file_url": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6846dce27d374b390db8017e"
+  },
+  "title": "cats and dogs",
+  "author": "Yam Horin",
+  "description": "user-generated story",
+  "user_id": {
+    "$oid": "68469963407b76a3fe571c11"
+  },
+  "created_at": {
+    "$date": "2025-06-09T13:08:50.960Z"
+  },
+  "num_pages": 3,
+  "pages": [
+    {
+      "text_page": "\"In a quiet town, cats and dogs lived on opposite sides of the park. They rarely spoke, but they watched each other with curiosity.One day, a mischievous puppy named Max saw a cat named Luna chasing butterflies. He barked playfully and joined in, startling her!\",",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2064622.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page0_voice.mp3"
+    },
+    {
+      "text_page": "\"Instead of getting angry, Luna laughed. 'You're fast for a dog,' she said. Max wagged his tail. From that day, they met every morning.\",",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%207dac5.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page1_voice.mp3"
+    },
+    {
+      "text_page": "\"When rain kept them inside, Luna came up with an idea. 'Let’s build a shelter for all animals!' Max barked in agreement.\",",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20ac3e9.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page2_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6846dd717d374b390db8017f"
+  },
+  "title": "cats and dogs",
+  "author": "Yam Horin",
+  "description": "user-generated story",
+  "user_id": {
+    "$oid": "68469963407b76a3fe571c11"
+  },
+  "created_at": {
+    "$date": "2025-06-09T13:11:13.566Z"
+  },
+  "num_pages": 3,
+  "pages": [
+    {
+      "text_page": "\"In a quiet town, cats and dogs lived on opposite sides of the park. They rarely spoke, but they watched each other with curiosity.One day, a mischievous puppy named Max saw a cat named Luna chasing butterflies. He barked playfully and joined in, startling her!\",",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%204c413.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page0_voice.mp3"
+    },
+    {
+      "text_page": "\"Instead of getting angry, Luna laughed. 'You're fast for a dog,' she said. Max wagged his tail. From that day, they met every morning.\",",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2012c3a.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page1_voice.mp3"
+    },
+    {
+      "text_page": "\"When rain kept them inside, Luna came up with an idea. 'Let’s build a shelter for all animals!' Max barked in agreement.\",",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2003512.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page2_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6846deb77d374b390db80180"
+  },
+  "title": "cats and dogs",
+  "author": "Yam Horin",
+  "description": "user-generated story",
+  "user_id": {
+    "$oid": "68469963407b76a3fe571c11"
+  },
+  "created_at": {
+    "$date": "2025-06-09T13:16:39.068Z"
+  },
+  "num_pages": 3,
+  "pages": [
+    {
+      "text_page": "\"In a quiet town, cats and dogs lived on opposite sides of the park. They rarely spoke, but they watched each other with curiosity.One day, a mischievous puppy named Max saw a cat named Luna chasing butterflies. He barked playfully and joined in, startling her!\",",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%201bba8.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page0_voice.mp3"
+    },
+    {
+      "text_page": "\"Instead of getting angry, Luna laughed. 'You're fast for a dog,' she said. Max wagged his tail. From that day, they met every morning.\",",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20681fa.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page1_voice.mp3"
+    },
+    {
+      "text_page": "\"When rain kept them inside, Luna came up with an idea. 'Let’s build a shelter for all animals!' Max barked in agreement.\",",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20b8c0c.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page2_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6847308925efe96dd5962168"
+  },
+  "title": "cats and dogs",
+  "author": "Yam Horin",
+  "description": "a cute story about how dogs and cats can become friends",
+  "user_id": {
+    "$oid": "68469963407b76a3fe571c11"
+  },
+  "created_at": {
+    "$date": "2025-06-09T19:05:45.596Z"
+  },
+  "num_pages": 4,
+  "pages": [
+    {
+      "text_page": "In a quiet town, cats and dogs lived on opposite sides of the park. They rarely spoke, but they watched each other with curiosity.One day, a mischievous puppy named Max saw a cat named Luna chasing butterflies. He barked playfully and joined in, startling her!",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2082a29.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page0_voice.mp3"
+    },
+    {
+      "text_page": "Instead of getting angry, Luna laughed. 'You're fast for a dog,' she said. Max wagged his tail. From that day, they met every morning.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%204c3d4.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page1_voice.mp3"
+    },
+    {
+      "text_page": "When rain kept them inside, Luna came up with an idea. 'Let’s build a shelter for all animals!' Max barked in agreement.",
+      "img_url": null,
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page2_voice.mp3"
+    },
+    {
+      "text_page": "Cats and dogs worked together, bringing sticks, blankets, and treats. Soon, they had a cozy spot where everyone played, no matter the weather.From then on, the park was full of wagging tails and happy purrs. Max and Luna showed everyone that even the oldest rivalries can become the best friendships.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20ed3f1.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page3_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6847318aa1e7ab82d4227d7b"
+  },
+  "title": "cats and dogs",
+  "author": "Yam Horin",
+  "description": "a cute story about how dogs and cats can become friends",
+  "user_id": {
+    "$oid": "68469963407b76a3fe571c11"
+  },
+  "created_at": {
+    "$date": "2025-06-09T19:10:02.692Z"
+  },
+  "num_pages": 4,
+  "pages": [
+    {
+      "text_page": "In a quiet town, cats and dogs lived on opposite sides of the park. They rarely spoke, but they watched each other with curiosity.One day, a mischievous puppy named Max saw a cat named Luna chasing butterflies. He barked playfully and joined in, startling her!",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2033eff.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page0_voice.mp3"
+    },
+    {
+      "text_page": "Instead of getting angry, Luna laughed. 'You're fast for a dog,' she said. Max wagged his tail. From that day, they met every morning.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2060536.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page1_voice.mp3"
+    },
+    {
+      "text_page": "When rain kept them inside, Luna came up with an idea. 'Let’s build a shelter for all animals!' Max barked in agreement.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20965e0.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page2_voice.mp3"
+    },
+    {
+      "text_page": "Cats and dogs worked together, bringing sticks, blankets, and treats. Soon, they had a cozy spot where everyone played, no matter the weather.From then on, the park was full of wagging tails and happy purrs. Max and Luna showed everyone that even the oldest rivalries can become the best friendships.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20b39da.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page3_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6849e9a91787328ce3988a3c"
+  },
+  "title": "cats and dogs",
+  "author": "Yam Horin",
+  "description": "story about cats and dogs becoming friends",
+  "user_id": {
+    "$oid": "68469963407b76a3fe571c11"
+  },
+  "created_at": {
+    "$date": "2025-06-11T20:40:09.787Z"
+  },
+  "num_pages": 4,
+  "pages": [
+    {
+      "text_page": "\"In a quiet town, cats and dogs lived on opposite sides of the park. They rarely spoke, but they watched each other with curiosity.One day, a mischievous puppy named Max saw a cat named Luna chasing butterflies. He barked playfully and joined in, startling her!\"",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2038e39.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page0_voice.mp3"
+    },
+    {
+      "text_page": "\"Instead of getting angry, Luna laughed. 'You're fast for a dog,' she said. Max wagged his tail. From that day, they met every morning.\"",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%201d1fe.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page1_voice.mp3"
+    },
+    {
+      "text_page": "\"When rain kept them inside, Luna came up with an idea. 'Let’s build a shelter for all animals!' Max barked in agreement.\"",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%200954e.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page2_voice.mp3"
+    },
+    {
+      "text_page": "\"Cats and dogs worked together, bringing sticks, blankets, and treats. Soon, they had a cozy spot where everyone played, no matter the weather.From then on, the park was full of wagging tails and happy purrs. Max and Luna showed everyone that even the oldest rivalries can become the best friendships.\"",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2099421.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs_page3_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684d685c2112483a2f707412"
+  },
+  "title": "The Little Bear Who Lost His Roar",
+  "author": "Yam Horin Tester",
+  "description": "short and sweet, made for children",
+  "user_id": {
+    "$oid": "68469963407b76a3fe571c11"
+  },
+  "created_at": {
+    "$date": "2025-06-14T12:17:32.782Z"
+  },
+  "num_pages": 4,
+  "rating": 0,
+  "pages": [
+    {
+      "text_page": "Once upon a time, in a cozy little town nestled between rolling green hills, lived a fluffy white cat named Snowball. Snowball loved napping in sunbeams, batting at dust bunnies, and generally being a very important cat. He ruled his house with a gentle paw. Across the street, lived a bouncy, brown dog named Rusty. Rusty loved chasing squirrels, barking at mail trucks (who were clearly up to no good!), and wagging his tail with enough enthusiasm to knock over small children (accidentally, of course!). Snowball and Rusty were, well, not friends. They were, in fact, the opposite.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%202ee96.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/_page0_voice.mp3"
+    },
+    {
+      "text_page": "Whenever Snowball saw Rusty in the yard, he'd puff up his fur and hiss! \"Hssss! Go away, you noisy mutt!\" he'd meow with disdain. Rusty, in return, would bark with playful energy, \"Woof! Come play, Snowball! Chasing squirrels is much more fun than napping!\" But Snowball would just flick his tail dismissively and retreat back inside to his comfy cushion. He didn't understand Rusty's energetic games. Rusty didn't understand Snowball's love for peace and quiet. They seemed destined to be rivals forever, separated by a fence and a whole lot of misunderstanding.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20fc3c8.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/_page1_voice.mp3"
+    },
+    {
+      "text_page": "One sunny afternoon, disaster struck! A big, gusty wind blew open the gate separating Snowball's yard from the street. Before he knew it, Snowball was outside, lost and scared, amidst the busy cars. He froze, his fur on end. Rusty, who had been happily chewing on a bone, saw Snowball's distress. He knew Snowball was afraid, even if Snowball wouldn't admit it. Without hesitation, Rusty sprang into action. He barked loudly, not angrily, but to get people's attention.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2026437.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/_page2_voice.mp3"
+    },
+    {
+      "text_page": "Rusty then gently nudged Snowball with his nose, guiding him away from the cars and towards his own yard. Slowly, cautiously, Snowball followed. Soon, they were both safely inside Rusty's yard, the gate securely closed. Snowball, for the first time, looked at Rusty with something other than annoyance. He rubbed against Rusty's leg, a soft purr rumbling in his chest. Rusty wagged his tail, a happy grin on his face. Maybe, just maybe, being friends wasn't so bad after all. From that day on, Snowball and Rusty learned that even the biggest differences can be overcome with a little kindness and a whole lot of understanding.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20ce797.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/_page3_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684d74077e7bd4c04849ca19"
+  },
+  "title": "The Little Seed's Big Dream",
+  "author": "Yam Horin Tester",
+  "description": "short and sweet, made for children",
+  "user_id": {
+    "$oid": "68469963407b76a3fe571c11"
+  },
+  "created_at": {
+    "$date": "2025-06-14T13:07:19.650Z"
+  },
+  "num_pages": 4,
+  "rating": 0,
+  "pages": [
+    {
+      "text_page": "Page 1:\n\nOnce upon a time, in a sunny little town, lived a fluffy, white cat named Snowball. Snowball loved to play! He'd chase butterflies in the garden, pounce on wiggling ribbons, and nap in sunbeams all day long. But even more than playing, Snowball loved to EAT! His tummy would rumble and grumble until his human, Lily, filled his bowl.\n\nLily always made sure Snowball had the very best cat food. She knew that yummy food helped him stay strong and playful! Today, Lily was about to give Snowball his favorite meal. What could it be?",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%20aef00.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/_page0_voice.mp3"
+    },
+    {
+      "text_page": "Page 2:\n\nLily opened a shiny, purple bag. It was \"Fishy Feast!\" - Snowball's absolute favorite! This food wasn't just tasty; it was packed with all sorts of good things that helped Snowball grow big and strong. Little bits of vitamins like tiny superheroes, and proteins like building blocks for super muscles!\n\n\"Meow!\" Snowball cried, rubbing against Lily's legs. He knew the sound of that purple bag. His whiskers twitched with anticipation. He couldn't wait to dive into his Fishy Feast! He imagined all the delicious flavors dancing on his tongue.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%206d13a.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/_page1_voice.mp3"
+    },
+    {
+      "text_page": "Page 3:\n\nLily scooped the crunchy kibble into Snowball's bright blue bowl. He watched, his emerald green eyes wide. The food smelled amazing! It smelled like the ocean, like sunshine, and like pure happiness, all mixed together.\n\nHe lowered his head and *CRUNCH!* went the first kibble. Then *CRUNCH! CRUNCH!* He gobbled down the Fishy Feast with gusto. He ate and ate until his tummy was round and happy. He knew this food was not only tasty, but it helps him grow!",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2080771.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/_page2_voice.mp3"
+    },
+    {
+      "text_page": "Page 4:\n\nWith a happy purr, Snowball looked up at Lily. His tummy was full, his coat was shiny, and his energy levels were ready to go again! He rubbed against Lily's leg as if to say, \"Thank you for the delicious Fishy Feast! Now, where's that butterfly I was chasing?\"\n\nLily giggled and gave Snowball a gentle pat. She knew that feeding him healthy cat food was the best way to show him she cared. A happy, healthy cat is a playful cat! And that is how every day went, with Snowball playing and eat his foods!",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image%2009504.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/_page3_voice.mp3"
+    }
+  ],
+  "genre": "Bedtime Stories"
+},
+{
+  "_id": {
+    "$oid": "684ecb5634987bd83d8486b4"
+  },
+  "title": "The Lonely Lizard and the Grumpy Gnat",
+  "author": "Yam Horin Tester",
+  "description": "a story about how to become friends",
+  "user_id": {
+    "$oid": "68469963407b76a3fe571c11"
+  },
+  "created_at": {
+    "$date": "2025-06-15T13:32:06.230Z"
+  },
+  "num_pages": 3,
+  "rating": 0,
+  "pages": [
+    {
+      "text_page": "Page 1:\nOnce upon a time, deep down in the sparkly, blue ocean, lived a little fish named Finny. Finny wasn't like the other fish. They all swam in big, swirly schools, following the oldest, wisest fish. But Finny? Finny liked to explore! He had bright orange scales that shimmered in the sunlight filtering down from above, and big, curious eyes that saw the world in a way no other fish did. One day, Finny decided he was tired of the same old seaweed and the same old coral. He wanted to see what was beyond the reef, beyond the familiar.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_71932.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/The%20Lonely%20Lizard%20and%20the%20Grumpy%20Gnat_page0_voice.mp3"
+    },
+    {
+      "text_page": "Page 2:\n\"I'm going on an adventure!\" Finny announced to a grumpy pufferfish named Percy. Percy just puffed himself up bigger and grumbled, \"Adventure is trouble! Stay here where it's safe.\" But Finny didn't listen. He wiggled his tail and zoomed past Percy, heading towards the open ocean. The water got darker as he swam further away from the reef. Finny saw strange and wonderful creatures! He saw jellyfish that glowed like tiny lanterns and a giant, sleepy sea turtle munching on seaweed.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_552b6.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/The%20Lonely%20Lizard%20and%20the%20Grumpy%20Gnat_page1_voice.mp3"
+    },
+    {
+      "text_page": "Page 3:\nSuddenly, Finny saw something HUGE! It was a big, friendly whale! The whale smiled, which made Finny giggle. \"Hello, little fish!\" the whale boomed. \"What are you doing so far from the reef?\" Finny told the whale all about his adventure and how he wanted to see the world. The whale listened patiently, then said, \"The world is full of wonders, little fish. But always remember your way home.\" Finny thanked the whale and, with a flick of his tail, started swimming back towards the familiar reef, his heart full of exciting stories to tell.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_bfc14.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/The%20Lonely%20Lizard%20and%20the%20Grumpy%20Gnat_page2_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "684f2e267ad2e81010cc226f"
+  },
+  "title": "The Littlest Seed's Big Friendship",
+  "author": "Yam Horin Tester",
+  "description": "a story about how to become friends",
+  "user_id": {
+    "$oid": "68469963407b76a3fe571c11"
+  },
+  "created_at": {
+    "$date": "2025-06-15T20:33:42.284Z"
+  },
+  "num_pages": 3,
+  "rating": 0,
+  "genre": "Adventure",
+  "pages": [
+    {
+      "text_page": "Woody the cowboy doll lived in Andy's room, and he was Andy's favorite toy! All the toys loved Woody, from Mr. Potato Head with his silly face, to Rex the nervous dinosaur. They had amazing adventures together, especially when Andy wasn't around! They’d play games, tell stories, and make sure no toy got left behind. One day, Andy’s birthday was coming up. The toys were excited, but also a little worried. What if Andy got new toys? Would they still be loved? Woody tried to reassure them, \"Andy loves us all! Everything will be alright!\" But deep down, Woody felt a little nervous too.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_c1d7a.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/The%20Littlest%20Seed%27s%20Big%20Friendship_page0_voice.mp3"
+    },
+    {
+      "text_page": "The birthday party arrived with balloons and cake! The toys hid in the toy chest, listening to the sounds of laughter and presents being unwrapped. Oh no! Andy got a new toy! It was Buzz Lightyear, a space ranger with flashing lights and laser sounds. Buzz believed he was a real space ranger on a mission, not a toy. Woody felt jealous. Andy loved Buzz, playing with him all day. Buzz was taking Woody's place! Woody accidentally knocked Buzz behind the desk. \"It was an accident!\" Woody cried. The other toys didn't believe him. They thought Woody was trying to get rid of Buzz.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_85272.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/The%20Littlest%20Seed%27s%20Big%20Friendship_page1_voice.mp3"
+    },
+    {
+      "text_page": "Woody tried to explain, \"I didn't mean to!\" But Buzz was gone. Then Andy announced he was going to Pizza Planet, and he was only taking one toy. He chose Buzz! Woody couldn't believe it. He knew he had to get Buzz back. He jumped into Andy's backpack! At Pizza Planet, Woody and Buzz found themselves trapped in a claw machine filled with little green aliens. They had to work together to escape, and maybe, just maybe, they would learn to be friends along the way, and find their way back to Andy.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_c029e.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/The%20Littlest%20Seed%27s%20Big%20Friendship_page2_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "685122b6e271d0799f70811a"
+  },
+  "title": "toys story",
+  "author": "yam horin",
+  "description": "a story about toys how can make friends",
+  "user_id": {
+    "$oid": "68432d8b578d818dc108fff3"
+  },
+  "created_at": {
+    "$date": "2025-06-17T08:09:26.144Z"
+  },
+  "num_pages": 3,
+  "rating": 0,
+  "genre": "Adventure",
+  "pages": [
+    {
+      "text_page": "In a quiet bedroom at the end of the hall, when the clock struck midnight and the moonlight painted silver trails across the floor, something magical happened. The toys came to life!",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_2f59f.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/toys%20story_page0_voice.mp3"
+    },
+    {
+      "text_page": "Teddy the brave bear stretched his fuzzy arms and gave a great yawn. \"Time for the Midnight Parade!\" he whispered.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_8512a.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/toys%20story_page1_voice.mp3"
+    },
+    {
+      "text_page": "Ballerina Bella twirled down from the music box, her pink tutu glowing in the moonlight. \"I’ll lead the march!\" she giggled.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_f54bb.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/toys%20story_page2_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "685123fae271d0799f70811b"
+  },
+  "title": "pinocio",
+  "author": "yam horin",
+  "description": "What is the name of your book (if you have an idea)?\n- pinocio\n\nWhat is the main idea or the subject of your book?\n- how to become a man \n\n",
+  "user_id": {
+    "$oid": "68432d8b578d818dc108fff3"
+  },
+  "created_at": {
+    "$date": "2025-06-17T08:14:50.680Z"
+  },
+  "num_pages": 6,
+  "rating": 2,
+  "genre": "Adventure",
+  "pages": [
+    {
+      "text_page": "Once upon a time, in a land filled with bouncy castles and endless ice cream, lived a little boy named Timmy. Timmy loved playing with his toys and giggling with his friends. But one day, he asked his grandpa, \"Grandpa, what does it mean to become a man?\" Grandpa chuckled, a warm, rumbling sound. \"It's not about growing taller or louder, Timmy,\" he said. \"It's about growing bigger on the inside.\" He winked. \"It's about having a good heart.\"",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_3a6d9.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/pinocio_page0_voice.mp3"
+    },
+    {
+      "text_page": "\"A good heart?\" Timmy tilted his head. \"How do I get one of those?\" Grandpa smiled. \"Well,\" he said, \"it starts with kindness. See that little bird with the broken wing?\" He pointed to a tiny sparrow. \"A man would try to help that bird, even if it's scared. Being a man is about taking care of others, both big and small.\" Timmy looked at the bird, then back at his grandpa, a thoughtful expression on his face.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_5b2d6.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/pinocio_page1_voice.mp3"
+    },
+    {
+      "text_page": "The next day, Timmy saw his friend, Lily, crying because she couldn't reach her kite stuck in a tree. Instead of laughing, Timmy thought hard. He found a long stick and, with careful effort, gently nudged the kite until it floated down. Lily's face lit up. \"Thank you, Timmy!\" she cried. That day, Timmy felt a warmth in his chest. Grandpa was right. Helping felt good.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_5bb16.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/pinocio_page2_voice.mp3"
+    },
+    {
+      "text_page": "Being a man isn't just about helping others, though. It's also about being brave. One night, Timmy heard a strange noise outside his window. He felt a little scared, but instead of hiding under the covers, he peeked through the curtains. It was just the wind rustling the leaves! He took a deep breath and felt a little taller. Facing his fear, even a small one, made him feel stronger.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_19da1.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/pinocio_page3_voice.mp3"
+    },
+    {
+      "text_page": "Grandpa also taught Timmy about responsibility. \"A man,\" Grandpa said, \"takes care of his things and keeps his promises.\" So, Timmy started making his bed every morning and remembering to water his plant. He even remembered to return the library book he borrowed. It wasn't always easy, but he knew it was the right thing to do.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_c3df8.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/pinocio_page4_voice.mp3"
+    },
+    {
+      "text_page": "Finally, Grandpa told Timmy, \"Being a man is about being yourself. Don't try to be someone you're not. Be kind, be brave, be responsible, and always, always be true to who you are.\" Timmy smiled. He understood now. It wasn't about muscles or a deep voice. It was about a kind heart, a brave spirit, and a promise to be the best Timmy he could be. And that, he knew, he could do.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_1e7d4.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/pinocio_page5_voice.mp3"
+    }
+  ],
+  "counter_rating": 6,
+  "sum_rating": 12,
+  "comments": [
+    {
+      "user": "yam horin",
+      "comment": "test"
+    },
+    {
+      "user": "yam horin",
+      "comment": "test"
+    },
+    {
+      "user": "yam horin",
+      "comment": "test"
+    },
+    {
+      "user": "yam horin",
+      "comment": "test"
+    },
+    {
+      "user": "yam horin",
+      "comment": "good book"
+    },
+    {
+      "user": "yam horin",
+      "comment": "best book ever"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68528eda21f84d5a9b163f9e"
+  },
+  "title": "the sea monsters adventure",
+  "author": "yam horin",
+  "description": "story about sea monsters",
+  "user_id": {
+    "$oid": "68432d8b578d818dc108fff3"
+  },
+  "created_at": {
+    "$date": "2025-06-18T10:03:06.196Z"
+  },
+  "num_pages": 4,
+  "rating": 0,
+  "genre": "null",
+  "pages": [
+    {
+      "text_page": "Once upon a time, in a quiet fishing village called Shell Cove, lived a curious girl named Isla. She loved the sea more than anything. Every morning before sunrise, she’d run down to the shore with her seashell bag and journal, hoping to discover something new.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_0d9c9.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/the%20sea%20monsters%20adventure_page0_voice.mp3"
+    },
+    {
+      "text_page": "One day, while walking near the tide pools, Isla found a giant, glowing scale the size of her hand. It shimmered in shades of green and gold. “What creature could this belong to?” she whispered. That night, waves crashed louder than ever, and strange howls echoed from the sea…",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_8f2ac.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/the%20sea%20monsters%20adventure_page1_voice.mp3"
+    },
+    {
+      "text_page": "The next morning, rumors spread — fishermen claimed they saw a giant tail rising from the waves! Some said it was a sea dragon, others a giant octopus. Isla was determined to find out. She packed her notebook, some snacks, and set out in her little rowboat.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_8d1f0.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/the%20sea%20monsters%20adventure_page2_voice.mp3"
+    },
+    {
+      "text_page": "Far beyond the cove, the sea turned a deep, stormy blue. Suddenly, a whirlpool spun beneath her! From it rose a creature taller than a lighthouse — it had a long serpent’s body, fins like sails, and eyes that glowed like stars. Isla’s heart raced, but she didn’t run.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_45c7a.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/the%20sea%20monsters%20adventure_page3_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6852c1010b0774c7f43a9f7c"
+  },
+  "title": "Brick Buddies: Building Friendship One Block at a Time",
+  "author": "postman Tester",
+  "description": "a story about how to become friends in legos",
+  "user_id": {
+    "$oid": "68469963407b76a3fe571c11"
+  },
+  "created_at": {
+    "$date": "2025-06-18T13:37:05.757Z"
+  },
+  "num_pages": 3,
+  "rating": 0,
+  "genre": "null",
+  "pages": [
+    {
+      "text_page": "Once upon a time, in the land of Bricktopia, lived a little Lego brick named Benny. Benny wasn't just any brick; he was bright blue and loved to dream big! All day long, he'd watch the Master Builders create amazing things: towering castles, speedy race cars, even giant robots! Benny longed to be part of something amazing, but he felt too small and insignificant. \"I wish I could build something incredible,\" he sighed to his best friend, a tiny yellow stud named Sunny. \"But I'm just one little brick.\" Sunny, ever optimistic, chirped, \"Don't worry, Benny! Even one brick can make a difference!\"",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_414d8.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Brick%20Buddies%3A%20Building%20Friendship%20One%20Block%20at%20a%20Time_page0_voice.mp3"
+    },
+    {
+      "text_page": "One sunny morning, the alarm sirens wailed! \"Bricksburg is being attacked by the dreaded Disassembler!\" shouted the town crier. The Disassembler, a grumpy giant with a penchant for destruction, was tearing apart buildings brick by brick! The Master Builders tried to fight back, but their creations crumbled under the Disassembler's grumpy grip. Fear spread through Bricktopia like spilled paint. Benny, despite being scared, knew he had to do something. He looked at Sunny and whispered, \"Maybe...maybe I can help!\" Sunny, beaming with pride, nudged him forward.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_0cbad.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Brick%20Buddies%3A%20Building%20Friendship%20One%20Block%20at%20a%20Time_page1_voice.mp3"
+    },
+    {
+      "text_page": "Benny bravely rolled towards the Disassembler's feet. He saw a tiny gap, a missing brick in the giant's shoe. With all his might, Benny squeezed himself into the empty space. The Disassembler stumbled! The missing brick threw him off balance. The Master Builders seized their chance! They quickly rebuilt the damaged buildings, stronger than before. The Disassembler, defeated, retreated. The town cheered for Benny, the little blue brick who proved that even the smallest hero can make the biggest difference. From that day on, Benny was known as Benny the Brave, a reminder that everyone has the power to build something amazing.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_6e1a2.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Brick%20Buddies%3A%20Building%20Friendship%20One%20Block%20at%20a%20Time_page2_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6852c1e4536117b869c5e207"
+  },
+  "title": "The Power of Friendship: A Superhero Story",
+  "author": "postman Tester",
+  "description": "a story about how to become friends using powers",
+  "user_id": {
+    "$oid": "68469963407b76a3fe571c11"
+  },
+  "created_at": {
+    "$date": "2025-06-18T13:40:52.318Z"
+  },
+  "num_pages": 3,
+  "rating": 0,
+  "genre": "Fairy Tales",
+  "pages": [
+    {
+      "text_page": "Once upon a time, in a town made of candy clouds and lollipop trees, lived a little girl named Lily. But Lily wasn't just any little girl! When the moon was full, and only then, she became...Captain Sparklepants! Her superpower? Making everyone laugh so hard, all their troubles disappeared in a puff of giggles. Her costume? A sparkly purple jumpsuit and, you guessed it, pants absolutely covered in glittery, rainbow sparkles! She couldn't fly or shoot lasers, but her laughter was the most powerful weapon of all!",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_4d9e8.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/The%20Power%20of%20Friendship%3A%20A%20Superhero%20Story_page0_voice.mp3"
+    },
+    {
+      "text_page": "One night, as the moon glowed big and bright, Lily felt a tingle. Captain Sparklepants was here! But instead of the usual quiet candy town, she heard sobs. A giant gingerbread man, normally so jolly, was weeping. \"My gumdrop buttons are gone!\" he wailed. \"Without them, I can't bring joy to the Candy Carnival!\" Captain Sparklepants knew what she had to do. She took a deep breath, twirled around, and started making silly faces.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_276d9.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/The%20Power%20of%20Friendship%3A%20A%20Superhero%20Story_page1_voice.mp3"
+    },
+    {
+      "text_page": "She crossed her eyes, wiggled her ears, and even pretended to be a talking teapot! The gingerbread man started to giggle. Then he chuckled. Then he burst out laughing! He laughed so hard, he shook, and from behind him, his missing gumdrop buttons rolled out! \"Oh, thank you, Captain Sparklepants!\" he cried, sticking his buttons back on. Captain Sparklepants smiled. Making people laugh was the best superpower ever. And as the moon began to fade, she knew, even without sparklepants, Lily could bring joy, one giggle at a time.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_29148.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/The%20Power%20of%20Friendship%3A%20A%20Superhero%20Story_page2_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68531e770a34f2861f126941"
+  },
+  "title": "Cats and Dogs: A Tail of Two Friends",
+  "author": "Yam Horin",
+  "description": "a cute story about how dogs and cats can become friends",
+  "user_id": {
+    "$oid": "68469963407b76a3fe571c11"
+  },
+  "created_at": {
+    "$date": "2025-06-18T20:15:51.718Z"
+  },
+  "num_pages": 4,
+  "rating": 0,
+  "genre": "Fairy Tales",
+  "pages": [
+    {
+      "text_page": "In a quiet town, cats and dogs lived on opposite sides of the park. They rarely spoke, but they watched each other with curiosity.One day, a mischievous puppy named Max saw a cat named Luna chasing butterflies. He barked playfully and joined in, startling her!",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_86a2d.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Cats%20and%20Dogs%3A%20A%20Tail%20of%20Two%20Friends_page0_voice.mp3"
+    },
+    {
+      "text_page": "Instead of getting angry, Luna laughed. 'You're fast for a dog,' she said. Max wagged his tail. From that day, they met every morning.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_7acc6.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Cats%20and%20Dogs%3A%20A%20Tail%20of%20Two%20Friends_page1_voice.mp3"
+    },
+    {
+      "text_page": "When rain kept them inside, Luna came up with an idea. 'Let’s build a shelter for all animals!' Max barked in agreement.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_3e07b.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Cats%20and%20Dogs%3A%20A%20Tail%20of%20Two%20Friends_page2_voice.mp3"
+    },
+    {
+      "text_page": "Cats and dogs worked together, bringing sticks, blankets, and treats. Soon, they had a cozy spot where everyone played, no matter the weather.From then on, the park was full of wagging tails and happy purrs. Max and Luna showed everyone that even the oldest rivalries can become the best friendships.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_9befe.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Cats%20and%20Dogs%3A%20A%20Tail%20of%20Two%20Friends_page3_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6859b62d97c407539fef5eb8"
+  },
+  "title": "Cats and Dogs: A Tail of Friendship",
+  "author": "yam horin",
+  "description": "a cute story about how dogs and cats can become friends",
+  "user_id": {
+    "$oid": "68432d8b578d818dc108fff3"
+  },
+  "created_at": {
+    "$date": "2025-06-23T20:16:45.132Z"
+  },
+  "num_pages": 4,
+  "rating": 0,
+  "genre": "Fairy Tales",
+  "pages": [
+    {
+      "text_page": "In a quiet town, cats and dogs lived on opposite sides of the park. They rarely spoke, but they watched each other with curiosity.One day, a mischievous puppy named Max saw a cat named Luna chasing butterflies. He barked playfully and joined in, startling her!",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_24c9c.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Cats%20and%20Dogs%3A%20A%20Tail%20of%20Friendship_page0_voice.mp3"
+    },
+    {
+      "text_page": "Instead of getting angry, Luna laughed. 'You're fast for a dog,' she said. Max wagged his tail. From that day, they met every morning.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_02f68.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Cats%20and%20Dogs%3A%20A%20Tail%20of%20Friendship_page1_voice.mp3"
+    },
+    {
+      "text_page": "When rain kept them inside, Luna came up with an idea. 'Let’s build a shelter for all animals!' Max barked in agreement.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_85b73.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Cats%20and%20Dogs%3A%20A%20Tail%20of%20Friendship_page2_voice.mp3"
+    },
+    {
+      "text_page": "Cats and dogs worked together, bringing sticks, blankets, and treats. Soon, they had a cozy spot where everyone played, no matter the weather.From then on, the park was full of wagging tails and happy purrs. Max and Luna showed everyone that even the oldest rivalries can become the best friendships.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_211eb.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Cats%20and%20Dogs%3A%20A%20Tail%20of%20Friendship_page3_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "686168d77ba725dfd79fb2fc"
+  },
+  "title": "karate kid",
+  "author": "yam horin",
+  "description": "What is the name of your book (if you have an idea)?\n- karate kid\n\nWhat is the main idea or the subject of your book?\n- a kid who move from America to china to become a karate master\n\n",
+  "user_id": {
+    "$oid": "68432d8b578d818dc108fff3"
+  },
+  "created_at": {
+    "$date": "2025-06-29T16:24:55.348Z"
+  },
+  "num_pages": 4,
+  "rating": 0,
+  "genre": "Adventure",
+  "pages": [
+    {
+      "text_page": "Leo loved karate. In his backyard in Ohio, he practiced every day, chopping at imaginary villains and leaping over pretend dragons. But Leo wasn't just dreaming of a black belt, he dreamed of China. He’d read books about Shaolin monks and ancient temples. \"I want to learn real karate!\" he declared to his mom one day. And surprisingly, she smiled. \"We're moving to China, Leo. Your father got a new job in Beijing!\" Leo's eyes widened. This wasn't just a dream anymore. It was happening!",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_ec638.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/karate%20kid_page0_voice.mp3"
+    },
+    {
+      "text_page": "Beijing was a whirlwind of new sights and sounds. Giant buildings towered over bustling streets filled with bicycles and scooters. Leo felt a bit lost, especially when he tried to order noodles using only pointing and awkward smiles. School was tough too. The language sounded like music he couldn’t quite hum. But Leo remembered his dream. He started looking for a real karate master. He asked everyone he met, from the fruit seller to the lady with the tiny, yapping dog.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_4a46d.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/karate%20kid_page1_voice.mp3"
+    },
+    {
+      "text_page": "Finally, a kind old woman smiled at Leo. \"You seek a master? Go to the park by the Temple of Heaven. There you might find what you are looking for.\" Leo raced to the park. He saw groups practicing tai chi and old men playing chess. Then, he saw him. A wizened man with a long, white beard, moving with the grace of a willow in the wind. The man was demonstrating a fluid, powerful karate form. Leo knew, instantly, this was his master.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_ce486.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/karate%20kid_page2_voice.mp3"
+    },
+    {
+      "text_page": "Leo approached nervously. \"Excuse me,\" he stammered in broken Mandarin. \"I... I want to learn karate from you.\" The old man stopped, his eyes twinkling. He studied Leo for a moment. \"You have spirit,\" he said finally. \"But spirit is not enough. Karate is about discipline, respect, and patience.\" He paused. \"Meet me here tomorrow at sunrise. We will see if you are worthy.\" Leo beamed. His Chinese adventure, and his karate journey, had finally begun!",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_3901e.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/karate%20kid_page3_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6862e119683c0271d3fb152f"
+  },
+  "title": "cats and dogs , the next chapter",
+  "author": "yam horin",
+  "description": "next story but now we have a boy",
+  "user_id": {
+    "$oid": "68432d8b578d818dc108fff3"
+  },
+  "created_at": {
+    "$date": "2025-06-30T19:10:17.746Z"
+  },
+  "num_pages": 4,
+  "rating": 0,
+  "genre": "Fairy Tales",
+  "pages": [
+    {
+      "text_page": "\"After their butterfly adventure, Max the puppy and Luna the cat became the best of friends. Word spread quickly through the park—cats and dogs could be friends after all! Curious pets from both sides started meeting near the old oak tree to play and talk.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_5db1c.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs%20%2C%20the%20next%20chapter_page0_voice.mp3"
+    },
+    {
+      "text_page": "\"One day, a wise old golden retriever named Daisy and a clever tabby named Oliver proposed a big idea: a Friendship Festival where cats and dogs could celebrate together. Everyone wagged their tails or purred with excitement. Preparations began immediately!\"",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_ca8eb.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs%20%2C%20the%20next%20chapter_page1_voice.mp3"
+    },
+    {
+      "text_page": "\"The park turned into a flurry of activity. Dogs dug little stages, and cats painted colorful signs. Max and Luna worked side by side, organizing games and snacks. Despite a few small arguments (mostly about who got the last fish-shaped cookie), the pets learned to work as a team.\"",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_dce1c.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs%20%2C%20the%20next%20chapter_page2_voice.mp3"
+    },
+    {
+      "text_page": "\"At sunset, the Friendship Festival began. There were races, dances, treats, and laughter echoing under the stars. Max stood beside Luna and whispered, 'We started all this.' Luna purred and replied, 'And it's only the beginning.'\"",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_de10c.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/cats%20and%20dogs%20%2C%20the%20next%20chapter_page3_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68691018403a10fc0e983dbd"
+  },
+  "title": "the magic dragon friends",
+  "author": "tony dan",
+  "description": "What is the name of your book (if you have an idea)?\n- the magic dragon friends\n\nWhat is the main idea or the subject of your book?\n- the main idea is to show how to make friends and work together\n\n",
+  "user_id": {
+    "$oid": "68690fbc403a10fc0e983dbc"
+  },
+  "created_at": {
+    "$date": "2025-07-05T11:44:24.146Z"
+  },
+  "num_pages": 3,
+  "rating": 0,
+  "genre": "Bedtime Stories",
+  "pages": [
+    {
+      "text_page": "Barnaby the badger was new to Sunny Meadow. He clutched his favorite rock, Pebbles, and shuffled behind a big oak tree. All the other little animals were playing a game of acorn toss! He watched Hazel the hedgehog giggle as Finley the fox made a silly face. Barnaby wanted to join, but his tummy felt like it was full of butterflies. What if they didn't like him? What if he wasn't good at acorn toss? He peeked out from behind the tree again, wishing he was brave enough to say hello.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_5ef6c.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/the%20magic%20dragon%20friends_page0_voice.mp3"
+    },
+    {
+      "text_page": "Suddenly, Finley missed a toss! His acorn rolled right toward Barnaby and bumped into Pebbles. \"Oops!\" Finley cried. He scurried over. \"Sorry about that! I'm Finley. What's your name?\" Barnaby, surprised, mumbled, \"Barnaby.\" Finley smiled. \"Hi Barnaby! Want to play acorn toss with us? We need another player!\" Hazel chimed in, \"It's easy, and even if you miss, it's still fun!\" Barnaby clutched Pebbles a little tighter but nodded shyly.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_114fe.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/the%20magic%20dragon%20friends_page1_voice.mp3"
+    },
+    {
+      "text_page": "Barnaby joined the game. At first, he missed every single toss. But Finley and Hazel cheered him on. \"Try holding the acorn like this!\" Hazel suggested. \"And remember to aim high!\" Finley added. Barnaby listened, and on his next try, the acorn landed right in the bucket! Everyone cheered. Barnaby grinned. He learned that making friends wasn't so scary after all, especially when everyone works together and helps each other! And Pebbles? Pebbles loved watching Barnaby having fun.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_23005.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/the%20magic%20dragon%20friends_page2_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "686939461287281917ae949b"
+  },
+  "title": "The Magical Paintbrush",
+  "author": "tony dan2",
+  "description": "A shy boy discovers a magical paintbrush that brings his drawings to life, teaching him the power of imagination and helping others.",
+  "user_id": {
+    "$oid": "686938f11287281917ae949a"
+  },
+  "created_at": {
+    "$date": "2025-07-05T14:40:06.530Z"
+  },
+  "num_pages": 4,
+  "rating": 0,
+  "genre": "Fairy Tales",
+  "pages": [
+    {
+      "text_page": "In the village of Willowbrook, a shy boy named Leo found an old paintbrush in his grandmother’s attic. It glowed with a soft blue light. Curious, he painted a tree—and to his amazement, it grew right out of the page!",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_3bc41.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/The%20Magical%20Paintbrush_page0_voice.mp3"
+    },
+    {
+      "text_page": "Leo painted birds, butterflies, and even a tiny pond. All of them came to life! Soon, the once-quiet village was full of magical creations, and everyone came to see Leo’s gift.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_ba336.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/The%20Magical%20Paintbrush_page1_voice.mp3"
+    },
+    {
+      "text_page": "But one day, he painted a thundercloud by mistake. It rumbled and poured rain for hours! 'What should I do?' he worried.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_ffe9c.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/The%20Magical%20Paintbrush_page2_voice.mp3"
+    },
+    {
+      "text_page": "Then he had an idea—he painted a giant sun with a big smile. The sun rose into the sky and dried all the rain. From that day on, Leo used his paintbrush to bring joy, color, and a little magic to everyone he met.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_9e5a4.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/The%20Magical%20Paintbrush_page3_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "686ad2fa858ec3e77905a8a9"
+  },
+  "title": "Pinocchio: A New Adventure",
+  "author": "Yam Horin",
+  "description": "After becoming a real boy, Pinocchio sets out on a journey beyond his village. Along the way, he discovers friendship, forgotten toys, and what it truly means to be alive.",
+  "user_id": {
+    "$oid": "68469963407b76a3fe571c11"
+  },
+  "created_at": {
+    "$date": "2025-07-06T19:48:10.526Z"
+  },
+  "num_pages": 10,
+  "rating": 0,
+  "genre": "Adventure",
+  "pages": [
+    {
+      "text_page": "After becoming a real boy, Pinocchio lived happily with Geppetto. But soon, he began to wonder what lay beyond their quiet village.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_2867e.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Pinocchio%3A%20A%20New%20Adventure_page0_voice.mp3"
+    },
+    {
+      "text_page": "One morning, he packed a small bag, kissed Geppetto goodbye, and set off to explore the world—promising to return before the first snowfall.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_5a51b.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Pinocchio%3A%20A%20New%20Adventure_page1_voice.mp3"
+    },
+    {
+      "text_page": "In a nearby town, Pinocchio met a girl named Lila who had a mysterious music box. She said it once belonged to her grandfather, an inventor.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_829a4.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Pinocchio%3A%20A%20New%20Adventure_page2_voice.mp3"
+    },
+    {
+      "text_page": "That night, the music box glowed and opened a secret map hidden inside. It led to the 'Island of Forgotten Toys'—a place full of magic.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_39d44.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Pinocchio%3A%20A%20New%20Adventure_page3_voice.mp3"
+    },
+    {
+      "text_page": "Excited, Pinocchio and Lila followed the map. Along the way, they helped a broken wind-up soldier, who joined them on the journey.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_e8eba.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Pinocchio%3A%20A%20New%20Adventure_page4_voice.mp3"
+    },
+    {
+      "text_page": "They finally reached the island, where toys lost or thrown away lived in silence. Pinocchio felt a deep connection—he was once one of them.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_d3b1e.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Pinocchio%3A%20A%20New%20Adventure_page5_voice.mp3"
+    },
+    {
+      "text_page": "Suddenly, a storm hit the island. Pinocchio bravely helped the toys take shelter, using quick thinking and kindness to lead them.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_23897.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Pinocchio%3A%20A%20New%20Adventure_page6_voice.mp3"
+    },
+    {
+      "text_page": "After the storm, the island began to shine again. The toys elected Pinocchio as their hero and gave him a glowing wooden heart as thanks.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_94c9a.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Pinocchio%3A%20A%20New%20Adventure_page7_voice.mp3"
+    },
+    {
+      "text_page": "Pinocchio and Lila said goodbye to their new friends and returned home. Geppetto hugged him tightly, proud of the boy Pinocchio had become.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_fc4d9.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Pinocchio%3A%20A%20New%20Adventure_page8_voice.mp3"
+    },
+    {
+      "text_page": "That night, as he lay in bed, Pinocchio held the glowing heart and smiled. He had once wanted to be real—and now, he truly felt alive.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_78c78.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/Pinocchio%3A%20A%20New%20Adventure_page9_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "689365f75b14e1724a60095f"
+  },
+  "title": "super hero kids",
+  "author": "Yam Horin",
+  "description": "a story about children having super powers",
+  "user_id": {
+    "$oid": "68469963407b76a3fe571c11"
+  },
+  "created_at": {
+    "$date": "2025-08-06T14:25:59.169Z"
+  },
+  "num_pages": 3,
+  "rating": 0,
+  "genre": "Adventure",
+  "pages": [
+    {
+      "text_page": "One morning, everything in Brightsville turned gray!\nLuna, Max, and Zoe saw the sky, trees, and toys had no color.\nThen—zap!—magic watches landed in their hands.\n“You are now Super Spark Kids!” a voice said.\nLuna got light powers. Max got sound. Zoe got nature.\n“Let’s bring back the colors!” shouted Max.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_06692.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/super%20hero%20kids_page0_voice.mp3"
+    },
+    {
+      "text_page": "The kids followed gray footprints to the dark woods.\nThere stood the Shadow Collector!\nHe was stealing colors and hiding them in a big jar.\n“I like the world dull and boring!” he growled.\nThe kids tried their powers, but he was too fast!\n“We need a plan,” whispered Zoe.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_229ad.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/super%20hero%20kids_page1_voice.mp3"
+    },
+    {
+      "text_page": "Luna made a rainbow, Max made a music blast,\nZoe grew flowers all around the jar.\nThe Shadow Collector tripped and dropped the jar—CRASH!\nColors flew back into the sky, trees, and town!\n“You did it!” said the voice. “You’re true heroes.”\nThe kids smiled.\nWhenever trouble comes… the Super Spark Kids will be there!",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_1dbcf.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/super%20hero%20kids_page2_voice.mp3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68936ba05b14e1724a600960"
+  },
+  "title": "the greate sonic kid ",
+  "author": "Yam Horin",
+  "description": "What is the name of your book (if you have an idea)?\n- the greate sonic kid \n\nWhat is the main idea or the subject of your book?\n- a kid who can run fast \n\n",
+  "user_id": {
+    "$oid": "68469963407b76a3fe571c11"
+  },
+  "created_at": {
+    "$date": "2025-08-06T14:50:08.381Z"
+  },
+  "num_pages": 6,
+  "rating": 0,
+  "genre": "Bedtime Stories",
+  "pages": [
+    {
+      "text_page": "Zippy Zoom was, well, zippy! Not just a little fast. Zippy was super-duper, lightning-bolt fast! He could outrun squirrels in the park, bicycles on the street, and even his own shadow when the sun was behind him. His sneakers were always a blur of color, leaving little puffs of dust in his wake. Even getting ready for school was a race – a race he always won! Eating breakfast? Zoom! Brushing teeth? Zoom! Zippy Zoom was the fastest kid in town, and everyone knew it.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_72e38.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/the%20greate%20sonic%20kid%20_page0_voice.mp3"
+    },
+    {
+      "text_page": "But being the fastest wasn’t always easy. Sometimes, Zippy finished his homework before the teacher even finished explaining it! Other kids asked him to tie their shoelaces because he could do it faster than they could. And hiding during hide-and-seek? Impossible! He’d always accidentally zoom into plain sight before anyone even started counting. Zippy wished sometimes he could be just…normal. Just a little slower, just a little more like everyone else.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_9a3f0.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/the%20greate%20sonic%20kid%20_page1_voice.mp3"
+    },
+    {
+      "text_page": "One sunny afternoon, the town was buzzing with excitement. The annual Pet Parade was about to begin! Kids dressed up their pets in silly costumes, and everyone cheered as they marched down Main Street. Zippy loved the Pet Parade, but he usually just watched from the sidelines. He figured he'd be too fast to keep up.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_761d1.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/the%20greate%20sonic%20kid%20_page2_voice.mp3"
+    },
+    {
+      "text_page": "Suddenly, panic erupted! A little girl’s parrot, Pip, had flown out of its cage! Pip squawked and flapped its wings, soaring higher and higher above the crowd. The little girl burst into tears. “Pip! Come back, Pip!” she cried. Everyone looked up, but no one knew what to do. The parrot was too high to reach.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_45ccd.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/the%20greate%20sonic%20kid%20_page3_voice.mp3"
+    },
+    {
+      "text_page": "Zippy knew he had to do something. He took a deep breath, focused on the little parrot, and…Zoom! He was off! He ran faster than he ever had before, his legs a blur. He predicted where Pip would fly and adjusted his course. He kept gaining ground; reaching for Pip as the crowd gasp.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_b688c.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/the%20greate%20sonic%20kid%20_page4_voice.mp3"
+    },
+    {
+      "text_page": "With a final burst of speed, Zippy leaped into the air! He stretched out his hand and gently scooped Pip the parrot out of the sky. The crowd roared with applause as Zippy carefully carried Pip back to the little girl. She threw her arms around Zippy, tears of joy streaming down her face. \"Thank you, Zippy!\" she cried. He finally understood that being fast wasn't just about winning races; it was about helping others. From that day on, Zippy used his speed to make the world a better place, one zoom at a time.",
+      "img_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/Images/image_b00bf.png",
+      "voice_file_url": "https://storage.googleapis.com/pawcuts-60a6c.appspot.com/voice%20stories/the%20greate%20sonic%20kid%20_page5_voice.mp3"
+    }
+  ]
+}]

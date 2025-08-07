@@ -107,7 +107,7 @@ def login():
         "full_name": str(user["full_name"]),
         "bio": str(user["bio"]),
         "location": str(user["location"]),
-        ##"image_base64": str(user["image_base64"]),
+        "image_base64": str(user["image_base64"]),
         "genres" : list(user["genres"])
     }) , 200
     
